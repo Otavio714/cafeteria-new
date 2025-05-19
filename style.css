@@ -566,10 +566,7 @@ header {
     font-size: 1rem;
 }
 
-.products-container,
-.customers-container {
-    gap: 1rem;
-}
+
 
 .products-container .box,
 .customers-container .box {
