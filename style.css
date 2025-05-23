@@ -54,7 +54,6 @@ header {
 .navbar {
     display: flex;
     position: relative;
-    right: 10rem;
 }
 
 .navbar a {
