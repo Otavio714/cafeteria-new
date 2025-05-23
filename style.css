@@ -267,7 +267,7 @@ header {
 .customers-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, auto));
-    gap: 1.5rem;
+    gap: 1.6rem;
     margin-top: 2rem;
     justify-content: center;
 }
@@ -573,10 +573,7 @@ header {
     padding: 15px;
 }
 
-.footer {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-}
+
 
 .footer .footer-box h3 {
     font-size: 1rem;
